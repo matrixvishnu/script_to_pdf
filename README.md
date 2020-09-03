@@ -5,7 +5,7 @@
 - Should have internet connection to run the script
 
 ## Customization
-This script is intended to convert .py files.
+This script is intended to convert python files.
 Can be Customized for other language files
 
 ### Instructions for Customization
